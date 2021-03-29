@@ -1,8 +1,9 @@
 ### Hi there 👋 I am Arpit !! 
 
-I am currently working on [WBOT](https://github.com/vasani-arpit/WBOT) and [WArchive](https://github.com/vasani-arpit/WArchive) helping small and mid-leval business to simplify their business process and needs. 
 
-I love web automation. If I am not working on a project, You will find me automating simple web tasks. I **like understnding business problems**. Usually, I spend time in solving problems with opensource solutions.
+I am currently working on [WBOT](https://github.com/vasani-arpit/WBOT) and [WArchive](https://github.com/vasani-arpit/WArchive) helping small and mid-level business to simplify their business process and needs. 
+
+I love web automation. If I am not working on a project, You will find me automating simple web tasks. I **like understanding business problems**. Usually, I spend time solving problems with open-source solutions.
 
 
 
