@@ -25,12 +25,16 @@ I love web automation. If I am not working on a project, You will find me automa
   [![Mail me][gmail_logo]][gmail]
   [![Linked In profile][LinkedIn_logo]][LinkedIn]
   [![instagram][instagram_logo]][instagram]
+  
+  
+### Articles I have written
+
+- https://dev.to/arpitvasani/how-i-created-whatsapp-bot-to-talk-with-my-friends-h92
+- https://www.codementor.io/@vasaniarpit/how-i-created-whatsapp-bot-to-talk-with-my-friends-xoi0fvsbc
 
 ### Wish list
 
 [![Buy me a book][badge_amazon]][amazon]
-
-
 
 
 
