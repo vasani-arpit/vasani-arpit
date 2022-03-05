@@ -31,6 +31,7 @@ I love web automation. If I am not working on a project, You will find me automa
 
 - https://dev.to/arpitvasani/how-i-created-whatsapp-bot-to-talk-with-my-friends-h92
 - https://www.codementor.io/@vasaniarpit/how-i-created-whatsapp-bot-to-talk-with-my-friends-xoi0fvsbc
+- https://dev.to/arpitvasani/how-to-connect-whatsapp-with-google-sheets-1a2i
 
 ### Wish list
 
